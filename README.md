@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shreyansh Singh From NIT Bhopal.<br>I am currently working on manit_times which aims to help manitians in exam time<br>I am currently learning Machine Learning.<br>Love to collaborate with fellow developers.
+I am Shreyansh Singh From NIT Bhopal.<br>I am currently learning Artificial Learning.<br>Love to collaborate with fellow developers.
 
 
 ## 🌐 Socials:
